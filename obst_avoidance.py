@@ -7,7 +7,7 @@ MAP_DIMENSIONS = (600, 1200)
 
 #graphic of env
 
-gfx= graphics(MAP_DIMENSIONS,'robot.png' ,'ROOM.png')
+gfx= graphics(MAP_DIMENSIONS,'Assets/robot.png' ,'Assets/ROOM.png')
 
 #lets position robot at
 start = (100, 200)
