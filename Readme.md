@@ -20,8 +20,10 @@ pip install pygame numpy
 .
 ├── main.py          # Main simulation loop
 ├── classes.py       # Robot, sensor, and graphics classes
-├── robot.png        # Robot sprite image
-└── ROOM.png         # Map/environment image
+├── Assets
+# Robot sprite image1
+# Environment Image
+└── Demonstrations
 ```
 
 ## Usage
